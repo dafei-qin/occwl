@@ -14,7 +14,7 @@ from occwl.base import VertexContainerMixin, EdgeContainerMixin, \
 
 from occwl.geometry import geom_utils
 from occwl.shape import Shape
-from deprecate import deprecated
+# from deprecate import deprecated
 import logging
 
 

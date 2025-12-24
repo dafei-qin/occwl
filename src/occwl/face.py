@@ -1,7 +1,7 @@
 import logging
 
 import numpy as np
-from deprecate import deprecated
+# from deprecate import deprecated
 from OCC.Core.BRep import BRep_Tool, BRep_Tool_Surface
 from OCC.Core.BRepAdaptor import BRepAdaptor_Surface
 from OCC.Core.BRepBuilderAPI import BRepBuilderAPI_MakeFace
